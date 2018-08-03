@@ -1,2 +1,2 @@
 # MycraTherapyDestop-Release
-Updates to Desktop App
+This Repo is housing the builds and update files for the Mycra Therapy desktop app
